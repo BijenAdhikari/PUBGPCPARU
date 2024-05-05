@@ -5,6 +5,7 @@ public class Animal {
 	private String color;
 	sdfsdfsdf
 	mounteverst
+	ga
 	public void eat() {
 		System.out.println("munch");
 	}
